@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi 👋, I’m Florencia 
 
-<!--
-**florgalarza/florgalarza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I’m a Data Science and AI technician who really enjoys working with data to solve problems and find useful insights.  
+I’m currently pursuing a Bachelor’s degree in Data Science and doing a diploma in Data Engineering to keep growing my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+These days, I’m focused on projects like:  
+- 📈 Data analysis and visualization  
+- 🤖 Building machine learning models for classification  
+- 🧠 Exploring Natural Language Processing (NLP)
+
+I love learning new things and sharing what I discover through my projects, which are mostly in Spanish.
+
+Thanks for stopping by! 😊
