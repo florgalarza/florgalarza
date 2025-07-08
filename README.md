@@ -1,7 +1,7 @@
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F76C6C&center=true&vCenter=true&width=400&lines=Hi+%F0%9F%91%8B+I'm+Florencia" alt="Typing SVG" />
+<h2 align="center" style="color:#F76C6C; font-size:26px; font-family:'Fira Code', monospace;">
+  Hi 👋<br>
+  I'm Florencia
 </h2>
-
 
 💻 I’m a Data Science and AI technician.  
 🌱 I enjoy learning new things and sharing my journey and experiences in tech through my projects, which are mostly in Spanish.  
