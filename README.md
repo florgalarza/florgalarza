@@ -2,7 +2,7 @@
 
 
 I’m a Data Science and AI technician who really enjoys working with data to solve problems and find useful insights.  
-I’m currently pursuing a Bachelor’s degree in Data Science and doing a diploma in Data Engineering to keep growing my skills.
+I’m currently pursuing a Bachelor’s degree in Data Science and doing a diploma course in Data Engineering to keep growing my skills.
 
 These days, I’m focused on projects like:  
 - 📈 Data analysis and visualization  
