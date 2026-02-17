@@ -3,7 +3,6 @@
 Técnica en Ciencia de Datos e Inteligencia Artificial | Estudiando Licenciatura en Ciencia de Datos (UNICABA)
 
 Resuelvo problemas de negocio con análisis exploratorio y modelos predictivos.  
-SQL, Python, Tableau.
 
 ---
 
@@ -42,7 +41,7 @@ SQL, Python, Tableau.
 - SQL (PostgreSQL, SQLite)
 
 **Visualization:**
-- Tableau Public
+- Tableau Public, Power BI, Looker Studio
 
 **Tools:**
 - Jupyter Notebooks, DBEaver, Git & GitHub
