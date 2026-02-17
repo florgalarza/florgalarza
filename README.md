@@ -2,8 +2,10 @@
 
 Técnica en Ciencia de Datos e Inteligencia Artificial | Estudiando Licenciatura en Ciencia de Datos (UNICABA)
 
-Resuelvo problemas de negocio con análisis exploratorio y modelos predictivos.
+Resuelvo problemas de negocio con análisis exploratorio y modelos predictivos.  
 SQL, Python, Tableau.
+
+---
 
 ## Proyectos
 
@@ -18,6 +20,8 @@ SQL, Python, Tableau.
 
 [Ver proyecto →](https://github.com/florgalarza/margin_leakage)
 
+---
+
 ### Brazilian E-commerce Expansion Analysis
 **Problema:** 74 categorías, ¿dónde entrar?
 
@@ -28,3 +32,22 @@ SQL, Python, Tableau.
 **Resultado:** Plan de ejecución cuantificado
 
 [Ver proyecto →](https://github.com/florgalarza/new-business-viability-analysis)
+
+---
+
+## Tech Stack
+
+**Languages & Analysis:**
+- Python (Pandas, NumPy, Matplotlib, Scikit-learn)
+- SQL (PostgreSQL, SQLite)
+
+**Visualization:**
+- Tableau Public
+
+**Tools:**
+- Jupyter Notebooks, DBEaver, Git & GitHub
+
+**Currently Learning:**
+- NLP & Sentiment Analysis
+- FastAPI, Docker
+- Airflow, dbt
