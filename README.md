@@ -46,7 +46,3 @@ Resuelvo problemas de negocio con análisis exploratorio y modelos predictivos.
 **Tools:**
 - Jupyter Notebooks, DBEaver, Git & GitHub
 
-**Currently Learning:**
-- NLP & Sentiment Analysis
-- FastAPI, Docker
-- Airflow, dbt
