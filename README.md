@@ -21,12 +21,12 @@ Resuelvo problemas de negocio con análisis exploratorio y modelos predictivos.
 
 ---
 
-### Brazilian E-commerce Expansion Analysis
-**Problema:** 74 categorías, ¿dónde entrar?
+### Análisis de Viabilidad de Negocio: E-commerce Brasileño
+**Problema:** ¿Qué determina si una categoría de productos en retail es una oportunidad viable para expansión? 74 categorías, ¿dónde entrar?
 
 **Método:** SQL (análisis multidimensional) + análisis de competencia y satisfacción
 
-**Insight:** Watches tiene 3x más demanda por competidor que Beauty (saturada)
+**Insight:** Relojes tiene 3x más demanda por competidor que Belleza (saturada)
 
 **Resultado:** Plan de ejecución cuantificado
 
