@@ -18,7 +18,7 @@ Una operación retail con 12.47% de margen, rentable en la superficie, pero 1 de
 
 ---
 
-### [Logistic Performance Analysis](https://github.com/florgalarza/
+### [Logistic Performance Analysis](https://github.com/florgalarza/order-shipment-performance-analysis)
 
 Analisis de logistica con 56.6% de envíos con demora. En principio parece un problema sistémico, pero al desagregar los datos, la mayoría de los factores no mueve la aguja. El tráfico pesado explica el 100% de las demoras en 327 envíos. La demanda, la utilización de camiones, el monto de transacción y la frecuencia de cliente no correlacionan ya que todos rondan el 56% base. El resultado: $170K en valor de envíos en riesgo, con tres líneas de acción priorizadas por impacto financiero.
 
