@@ -9,7 +9,7 @@ Los proyectos siguen una lógica común: plantear un problema concreto, aislar l
 
 ## Proyectos
 
-### [Margin Leakage Analysis][https://github.com/florgalarza/margin_leakage]
+### [Margin Leakage Analysis](https://github.com/florgalarza/margin_leakage)
 
 Una operación retail con 12.47% de margen, rentable en la superficie, pero 1 de cada 5 órdenes pierde dinero. El análisis investiga si el problema es estructural (productos que no pueden ser rentables) o estratégico (decisiones de descuento que destruyen el margen). El resultado: los 17 productos son rentables a precio completo, pero colapsan con descuentos mayores al 20%. Tres escenarios de ajuste recuperan entre $273K y $327K de ganancia.
 
