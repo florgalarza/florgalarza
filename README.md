@@ -1,6 +1,6 @@
 # Florencia Galarza
 
-Técnica en Ciencia de Datos e Inteligencia Artificial | Estudiando Licenciatura en Ciberdefensa (UNDEF)
+Técnica en Ciencia de Datos e Inteligencia Artificial 
 Me interesa resolver problemas de negocio con análisis exploratorio y modelos predictivos.
 
 [LinkedIn](https://www.linkedin.com/in/fflorgalarza/)
