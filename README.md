@@ -47,4 +47,3 @@ Analisis de logistica con 56.6% de envíos con demora. En principio parece un pr
 ## Formación
 
 - **Tecnicatura en Ciencia de Datos e Inteligencia Artificial** — IFTS N18
-- **Licenciatura en Ciencia de Datos** — UNICABA (en curso, ciclo complementario)
